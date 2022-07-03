@@ -1,0 +1,29 @@
+C:\LHM\game\game\bin\Debug\game.exe.config
+C:\LHM\game\game\bin\Debug\game.exe
+C:\LHM\game\game\bin\Debug\game.pdb
+C:\LHM\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\LHM\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\LHM\game\game\obj\Debug\game.exe
+C:\LHM\game\game\obj\Debug\game.pdb
+C:\Users\admin\Desktop\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\game\game\obj\Debug\game.exe
+C:\Users\admin\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\admin\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\admin\Desktop\game\game\bin\Debug\game.exe
+C:\Users\admin\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\Administrator\Desktop\game\game\bin\Debug\game.exe.config
+C:\Users\Administrator\Desktop\game\game\bin\Debug\game.exe
+C:\Users\Administrator\Desktop\game\game\bin\Debug\game.pdb
+C:\Users\Administrator\Desktop\game\game\obj\Debug\game.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\game\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\game\game\obj\Debug\game.exe
+C:\Users\Administrator\Desktop\game\game\obj\Debug\game.pdb
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\bin\Debug\game.exe.config
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\bin\Debug\game.exe
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\bin\Debug\game.pdb
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\obj\Debug\game.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\obj\Debug\game.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\obj\Debug\game.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\obj\Debug\game.exe
+C:\Users\admin\Desktop\플랫폼 클라이언트 프로그래밍 - 이현민\PuyoPuyo\game\obj\Debug\game.pdb
